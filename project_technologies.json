@@ -1,7 +1,8 @@
 {
     "technologies": {
         "apis": [
-            "Google Drive"
+            "Google Drive",
+            "3D Warehouse"
         ],
         "platforms": [
             "Desktop"
