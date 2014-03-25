@@ -4,8 +4,7 @@
 - Florian Brueckner [bloomingbridges](http://github.com/bloomingbridges)
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
-
+<!-- Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology.  -->
 __Meshwurst__ allows you to send virtual geometry into the grinder and turn them into "digital sausages", ready for the 3D printer. Taking inspiration from glitch art, I want to explore means of creating such by-products by safely manipulating vertices rather than corrupting the data itself. The transformation of representational as well as non-representational meshes pose   questions over their life-spans and value.
 
 <!-- ## Link to Prototype
