@@ -1,16 +1,20 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Google Drive"
         ],
         "platforms": [
-            "insert platforms"
+            "Desktop"
         ],
         "toolkits": [
-            "insert toolkits"
+            "openFrameworks",
+            "Google SketchUp"
         ]
     },
     "themes": [
-        "insert themes"
+        "Waste",
+        "Fabrication",
+        "Geometry",
+        "Digital"
     ]
 }
