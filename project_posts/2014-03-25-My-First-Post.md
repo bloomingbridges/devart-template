@@ -1,6 +1,6 @@
 This competition gives me a brilliant excuse to work on a little artifact that I've been toying with for about three years now. It bears the ominous title __Meshwurst__ and goes as follows:
 
-    __Meshwurst__ is a tool, which allows you to take any 3D model and turn it into digital waste through a simple, spatially organised interface. Each result is unique and can be exported and - if desired - sent to a 3D printer.
+> __Meshwurst__ is a tool, which allows you to take any 3D model and turn it into digital waste through a simple, spatially organised interface. Each result is unique and can be exported and - if desired - sent to a 3D printer.
 
 Leaving everything a little too late (as per usual), I have about five days left to do this. I've decided upfront that I will be using [openFrameworks](http://www.openframeworks.cc), as I desperately need more experience writing _C++_.
 
