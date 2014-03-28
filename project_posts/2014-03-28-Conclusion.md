@@ -1,4 +1,4 @@
-That's it, I'm throwing in the towel. The generated wurst meshes aren't anywhere near printable, I should have picked a primitive and start manipulating it, informed by the normals or some other values extracted from the original meshes.
+That's it, I'm throwing in the towel. The generated wurst meshes aren't anywhere near printable, I should have picked a primitive and start manipulating it, informed by the normals or some other values extracted from the original meshes. Furthermore, I am still unclear on whether _SketchUp_ actually belongs to _Google_ and in theory, writing produced meshes to file in a local _Google Drive_ shouldn't have been an issue.
 
 The biggest bummer is not the file dialog being broken, but rather that I didn't find enough time to develop this project. It was certainly not _pushing_ any boundaries and it was intentionally NOT web-based, but as I wrote before I just needed to do this for myself.
 
