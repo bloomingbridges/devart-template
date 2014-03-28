@@ -2,14 +2,6 @@ I've made some good progress today, so good in fact, I might even find the time 
 
 ![Progress Screenshot Day #2](../project_images/day2.png)
 
-I will start including links to builds on here from now on. If you happen to run at least _Mac OS X Mountain Lion_, you may have a look [here](https://www.dropbox.com/s/2jvv9i9i02r04x7/meshwurst_osx.zip) (6.2mb, .zip). Source will follow shortly.
-
-A few things worth noting:
-
-- Press 'F' to toggle fullscreen mode
-- Use the arrow keys to navigate
-- 'SPACE' to perform an action on the selected container
-
 ## Progress recap at the end of day #2
 
 - Continued work on aesthetic 
