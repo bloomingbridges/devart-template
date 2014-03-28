@@ -1,15 +1,16 @@
 {
     "technologies": {
         "apis": [
-            "Google Drive",
-            "3D Warehouse"
+            "drive",
+            "3DWarehouse"
         ],
         "platforms": [
-            "Desktop"
+            "osx"
         ],
         "toolkits": [
-            "openFrameworks",
-            "Google SketchUp"
+            "openframeworks",
+            "opengl",
+            "sketchup"
         ]
     },
     "themes": [
